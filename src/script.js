@@ -6,7 +6,7 @@ if (!player1 || !player2) {
   player1 = "Player 1";
   player2 = "Player 2";
 }
-
+// hi my name is new changes
 document.getElementById("startGame").addEventListener("click", () => {
   player1 = document.getElementById("player1").value || "Player 1";
   player2 = document.getElementById("player2").value || "Player 2";
