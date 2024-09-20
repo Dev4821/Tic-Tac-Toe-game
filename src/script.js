@@ -2,6 +2,7 @@ let flag = false;
 let currentPlayer = "";
 let currentValue = "O";
 
+
 if (!player1 || !player2) {
   player1 = "Player 1";
   player2 = "Player 2";
